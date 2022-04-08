@@ -33,3 +33,7 @@
    - 120万枚超えの画像をJavaScriptから無料で使える「Pixabay API」で画像検索サイトを作ろう！
 https://paiza.hatenablog.com/entry/2017/11/30/120%E4%B8%87%E6%9E%9A%E8%B6%85%E3%81%88%E3%81%AE%E7%94%BB%E5%83%8F%E3%82%92JavaScript%E3%81%8B%E3%82%89%E7%84%A1%E6%96%99%E3%81%A7%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8CPixabay_API%E3%80%8D%E3%81%A7%E7%94%BB
    
+   **提出後の修正（予定）
+   - じゃんけんロジック
+   - CSSとか
+   - おみくじから画像APIを取得する流れ
